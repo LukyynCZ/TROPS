@@ -16,7 +16,7 @@ const Header = ({ site }: Props) => {
     <header className='max-w-7xl z-50 m-auto flex justify-between items-center px-2 md:px-5'>
       <div>
         <Link to='/'>
-          <img src='src/assets/TROPS.png' width={100} height={100} />
+          <img src='/assets/TROPS.png' width={100} height={100} />
         </Link>
       </div>
 

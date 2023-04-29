@@ -15,7 +15,7 @@ function App() {
         className='max-w-7xl m-auto'>
         <section>
           <video autoPlay muted loop>
-            <source src='src/assets/TROPS.mp4' type='video/mp4' />
+            <source src='assets/TROPS.mp4' type='video/mp4' />
           </video>
           <div className='flex items-center flex-col mt-5'>
             <h1>Check out our products!</h1>
@@ -29,7 +29,6 @@ function App() {
           </div>
         </section>
       </motion.div>
-      
     </div>
   );
 }

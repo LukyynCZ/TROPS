@@ -19,7 +19,7 @@ const Vip = () => {
             initial={{ opacity: 0, x: -100 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}>
-            <img src='src/assets/photo2.png' className='md:pt-10 mb-10' />
+            <img src='/assets/photo2.png' className='md:pt-10 mb-10' />
           </motion.div>
           <motion.div
             transition={{ duration: 1 }}

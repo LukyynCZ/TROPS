@@ -35,7 +35,7 @@ const About = () => {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
             className='md:w-1/2'>
-            <img src='src/assets/TROPS.png' style={{ boxShadow: '0 0 5px white' }} />
+            <img src='/assets/TROPS.png' style={{ boxShadow: '0 0 5px white' }} />
           </motion.div>
           <motion.div
             viewport={{ once: true }}
@@ -80,7 +80,7 @@ const About = () => {
             initial={{ opacity: 0, x: 100 }}
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}>
-            <img src='src/assets/photo3.png' />
+            <img src='/assets/photo3.png' />
           </motion.div>
         </div>
         <div className='mt-20 text-center text-gray-200'>

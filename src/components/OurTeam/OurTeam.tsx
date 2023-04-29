@@ -22,7 +22,7 @@ const OurTeam = () => {
       position1: 'Main Actor',
       position2: 'Support',
       image: '/assets/filip.png',
-      x: -250,
+      x: -220,
     },
   ];
   return (

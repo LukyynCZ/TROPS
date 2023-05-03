@@ -84,7 +84,7 @@ const About = () => {
           </motion.div>
         </div>
         <div className='mt-20 text-center text-gray-200'>
-          Create by <b>Lukas Macku </b> for team TROPS
+          Created by <b>Lukas Macku </b> for team TROPS
         </div>
       </section>
     </div>

@@ -30,7 +30,7 @@ const Vip = () => {
         </div>
       </div>
       <div className='mt-36 mb-20 text-center text-gray-200'>
-        Create by <b>Lukas Macku </b> for team TROPS
+        Created by <b>Lukas Macku </b> for team TROPS
       </div>
     </>
   );

@@ -61,7 +61,7 @@ const Products = () => {
           />
         ))}
         <div className={`mt-20 mb-20 text-center text-gray-200 ${load ? '' : 'hidden'}`}>
-          Create by <b>Lukas Macku </b> for team TROPS
+          Created by <b>Lukas Macku </b> for team TROPS
         </div>
       </section>
     </>
